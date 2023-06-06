@@ -71,27 +71,3 @@ no
 978-0130895929|C: A Reference Manual|Samuel Harbison, Guy Steele Jr.|2002|Pearson|no|50.19|11.05|21|4.1
 
 ```
-
-## Reporting
-
-Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
-1. Definisikan tipe data yang cocok dan representatif untuk setiap properti.
-2. Berikan dasar pemikiran anda mengenai usulan tipe data tersebut.
-3. Jabarkan solusi anda (Flowgorithm).
-
-**Note**: Semakin tajam argumen dan penjabaran anda semakin mudah penilaian dilakukan.
-
-**Kriteria Video Presentasi**:
-+ 1080p/30fps, min. 10 menit.
-+ Suara jernih dan dapat dengan jelas terdengar.
-+ Posting video anda di YouTube, di-set "Not For Kids" dengan visibility Unlisted.
-
-## Submissions:
-
-1. T01.java
-2. T01.fprg
-3. changelog.txt
-
-## How to Submit?
-
-Please see https://youtu.be/cU546lAL9g8
