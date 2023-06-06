@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="acer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-22 01:37:40 PM"/>
+        <attribute name="created" value="YWNlcjtMQVBUT1AtTzMzNlE5Qk87MjAyMi0wOS0yMjsxMDo0Nzo1MSBBTTsyNzA0"/>
+        <attribute name="edited" value="YWNlcjtMQVBUT1AtTzMzNlE5Qk87MjAyMi0wOS0yMjswMTozNzo0MCBQTTs3OzI4MzA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ISBN" type="String" array="False" size=""/>
+            <declare name="Judul" type="String" array="False" size=""/>
+            <declare name="Penulis" type="String" array="False" size=""/>
+            <input variable="ISBN"/>
+            <input variable="Judul"/>
+            <input variable="Penulis"/>
+            <declare name="Tahunterbit" type="String" array="False" size=""/>
+            <input variable="Tahunterbit"/>
+            <declare name="Penerbit" type="String" array="False" size=""/>
+            <declare name="Formatbuku" type="String" array="False" size=""/>
+            <input variable="Penerbit"/>
+            <input variable="Formatbuku"/>
+            <declare name="Hargapembelian" type="Real" array="False" size=""/>
+            <declare name="Minimummargin" type="Real" array="False" size=""/>
+            <input variable="Hargapembelian"/>
+            <input variable="Minimummargin"/>
+            <declare name="Stok" type="Integer" array="False" size=""/>
+            <input variable="Stok"/>
+            <declare name="Rating" type="Real" array="False" size=""/>
+            <input variable="Rating"/>
+            <output expression="ISBN&amp;&quot;|&quot;&amp;Judul&amp;&quot;|&quot;&amp;Penulis&amp;&quot;|&quot;&amp;Tahunterbit&amp;&quot;|&quot;&amp;Penerbit&amp;&quot;|&quot;&amp;Formatbuku&amp;&quot;|&quot;&amp;Hargapembelian&amp;&quot;|&quot;&amp;Minimummargin&amp;&quot;|&quot;&amp;Stok&amp;&quot;|&quot;&amp;Rating" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
